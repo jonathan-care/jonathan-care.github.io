@@ -5,9 +5,7 @@ image: "/posts/covid-1.jpg"
 tags: [Covid-19, Electricity] 
 ---
 
-# Portfolio Project: Beyond the Blanket Shutdown - Analyzing Commercial Energy Consumption During COVID-19
-
-## The "So What": Why We Should Care
+## Main Takeaways
 In much of the research regarding electricity usage, utility customers are placed into the broad categories of residential, commercial, and industrial. These groups are traditionally viewed as homogeneous. However, working with real-world municipal data right here in Fort Collins, Colorado, quickly reveals that reality is far more complex. 
 
 When the COVID-19 pandemic triggered widespread shutdowns, it resulted in what has been called "the biggest psychological experiment in history." Treating all commercial properties as a single monolith masks the true impact of public policy. Our research demonstrated that varying business types responded to government-mandated changes in operations in vastly different ways. By applying high-resolution data analysis to our mid-sized US city, we proved that it is an oversimplification to view commercial properties as a single, homogeneous group. Understanding the nuanced responses of specific property types is essential for accurately monitoring financial impacts, managing municipal utility assets, and designing future energy conservation policies.
