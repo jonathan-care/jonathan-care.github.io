@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond the Blanket Shutdown - Analyzing Commercial Energy Consumption During COVID-19
-image: "/posts/covid.jpg"
+image: "/posts/covid-1.jpg"
 tags: [Covid-19, Electricity] 
 ---
 
