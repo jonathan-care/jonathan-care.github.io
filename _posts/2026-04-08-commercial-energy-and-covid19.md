@@ -1,3 +1,10 @@
+---
+layout: post
+title: Beyond the Blanket Shutdown - Analyzing Commercial Energy Consumption During COVID-19
+image: "/posts/covid.jpg"
+tags: [Covid-19, Electricity] 
+---
+
 # Portfolio Project: Beyond the Blanket Shutdown - Analyzing Commercial Energy Consumption During COVID-19
 
 ## The "So What": Why We Should Care
